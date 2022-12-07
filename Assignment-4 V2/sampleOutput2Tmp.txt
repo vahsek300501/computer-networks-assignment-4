@@ -1,0 +1,57 @@
+Routing table of: A
+F    AF   1
+E    ABE   2
+B    AB   1
+D    ABD   2
+C    AC   1
+A    A   0
+
+
+
+Routing table of: B
+F    BAF   2
+E    BE   1
+B    B   0
+D    BD   1
+C    BAC   2
+A    BA   1
+
+
+
+Routing table of: C
+F    CAF   2
+E    CE   1
+B    CAB   2
+D    CD   1
+C    C   0
+A    CA   1
+
+
+
+Routing table of: D
+F    DF   1
+E    DBE   2
+B    DB   1
+D    D   0
+C    DC   1
+A    DBA   2
+
+
+
+Routing table of: E
+F    EF   1
+E    E   0
+B    EB   1
+D    EBD   2
+C    EC   1
+A    EBA   2
+
+
+
+Routing table of: F
+F    F   0
+E    FE   1
+B    FAB   2
+D    FD   1
+C    FAC   2
+A    FA   1
