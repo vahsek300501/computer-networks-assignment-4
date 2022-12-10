@@ -23,6 +23,15 @@ Assignment_4_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 Assignment_4_SOURCE_DIR:STATIC=C:/Users/kesha/Desktop/Assignemnt-4/Assignment-4-V1
 
+//Value Computed by CMake
+Assignment_4_V1_BINARY_DIR:STATIC=C:/Users/kesha/Desktop/Assignemnt-4/Assignment-4-V1/cmake-build-debug
+
+//Value Computed by CMake
+Assignment_4_V1_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Assignment_4_V1_SOURCE_DIR:STATIC=C:/Users/kesha/Desktop/Assignemnt-4/Assignment-4-V1
+
 //Path to a program.
 CMAKE_ADDR2LINE:FILEPATH=C:/Users/kesha/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/addr2line.exe
 
@@ -160,7 +169,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Assignment_4
+CMAKE_PROJECT_NAME:STATIC=Assignment_4_V1
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=C:/Users/kesha/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/ranlib.exe

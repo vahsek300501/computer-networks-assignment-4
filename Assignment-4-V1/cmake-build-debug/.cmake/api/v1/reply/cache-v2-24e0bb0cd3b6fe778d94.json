@@ -38,6 +38,42 @@
 			"value" : "C:/Users/kesha/Desktop/Assignemnt-4/Assignment-4-V1"
 		},
 		{
+			"name" : "Assignment_4_V1_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/kesha/Desktop/Assignemnt-4/Assignment-4-V1/cmake-build-debug"
+		},
+		{
+			"name" : "Assignment_4_V1_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "Assignment_4_V1_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/kesha/Desktop/Assignemnt-4/Assignment-4-V1"
+		},
+		{
 			"name" : "CMAKE_ADDR2LINE",
 			"properties" : 
 			[
@@ -887,7 +923,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Assignment_4"
+			"value" : "Assignment_4_V1"
 		},
 		{
 			"name" : "CMAKE_RANLIB",

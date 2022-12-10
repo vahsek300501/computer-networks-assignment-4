@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Assignment_4.exe"
+			"path" : "Assignment_4_V1.exe"
 		},
 		{
-			"path" : "Assignment_4.pdb"
+			"path" : "Assignment_4_V1.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -75,7 +75,7 @@
 			]
 		}
 	],
-	"id" : "Assignment_4::@6890427a1f51a3e7e1df",
+	"id" : "Assignment_4_V1::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -95,8 +95,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "Assignment_4",
-	"nameOnDisk" : "Assignment_4.exe",
+	"name" : "Assignment_4_V1",
+	"nameOnDisk" : "Assignment_4_V1.exe",
 	"paths" : 
 	{
 		"build" : ".",
